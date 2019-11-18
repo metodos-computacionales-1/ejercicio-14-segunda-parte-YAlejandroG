@@ -11,3 +11,5 @@
 7. Al agregar una fuerza de friccion se obtiene un modelo de oscilador armónico amortiguado y esto se observa en las graficas, puesto que la amplitud de las oscilaciones tanto de la posición como de la velocidad disminuyen, ademas en el grafico x vs v se observa como el radio de la espira disminuye con el tiempo, es decir se acerca al centro.
 
 8. Al incrementar el valor de lambda la ecuación deja de ser lineal y esto imposibilita una buena solucion de la ODE, por lo cual los datos obtenidos no tienen sentido al ser mostrados en una grafica.
+
+Pdt/ El makefile compila, ejecuta y grafica todo.
