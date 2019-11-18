@@ -18,9 +18,9 @@ plt.ylabel('x(m)')
 plt.title("Harmonic oscillator, Position")
 
 plt.subplot(1,2,2)
-plt.plot(time,v,c='g')
+plt.plot(x,v,c='g')
 plt.grid()
-plt.xlabel('time(s)')
+plt.xlabel('x(m)')
 plt.ylabel('v(m/s)')
 plt.title("Harmonic oscillator, Velocity")
 
