@@ -10,7 +10,7 @@ const double DeltaT = 0.01;
 int Euler(double t,double v0,double x0,string nombre);
 
 int main(){
-    double t = 18.0;
+    double t = 10.0;
     double v0 = 0.0;
     double x0 = 1.0;
     string nombre = "14Euler.dat";
