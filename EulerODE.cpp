@@ -3,7 +3,7 @@
 #include <cmath>
 using namespace std;
 
-const double K = 100.0;
+const double K = 50.0;
 const double M = 2.0;
 const double DeltaT = 0.01;
 
